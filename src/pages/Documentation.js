@@ -43,9 +43,6 @@ const Documentation = ({ formData, handleInputChange }) => {
           onChange={handleFileChange}
           required
         />
-      </div>
-      <button onClick={handleSave}>Save</button>
-    </div>
   );
 };
 
