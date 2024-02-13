@@ -43,6 +43,8 @@ const Documentation = ({ formData, handleInputChange }) => {
           onChange={handleFileChange}
           required
         />
+      </div>
+    </div>
   );
 };
 
